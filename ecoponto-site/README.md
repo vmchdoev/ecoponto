@@ -24,14 +24,9 @@ Este protótipo não possui backend, autenticação real nem armazenamento de da
 
 ## Integrantes
 
-- [Preencher nome do integrante 1] — [link para currículo]
-- [Preencher nome do integrante 2, se houver] — [link para currículo]
-- [Preencher nome do integrante 3, se houver] — [link para currículo]
+Victor Machado Evangelista 
 
-## Validação
-
-Antes da entrega, validar todas as páginas HTML em https://validator.w3.org/ e o CSS em https://jigsaw.w3.org/css-validator/. Guardar capturas de tela dos resultados para anexar ao repositório.
 
 ## Publicação
 
-Publicar o repositório com GitHub Pages e inserir o link publicado aqui: [adicionar URL do GitHub Pages].
+ https://vmchdoev.github.io/ecoponto/
